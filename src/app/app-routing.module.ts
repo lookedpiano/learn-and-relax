@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { AppComponent } from './app.component';
 import { EquationComponent } from './equation/equation.component';
 import { PhotosComponent } from './photos/photos.component';
 

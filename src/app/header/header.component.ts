@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  title: string = 'Learn & Relax App';
+  title: string = 'Estelli\'s Learn & Relax App';
 
   constructor() { }
 
