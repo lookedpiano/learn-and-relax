@@ -10,6 +10,7 @@ import { HeaderComponent } from './header/header.component';
 import { DecisionComponent } from './decision/decision.component';
 import { AppRoutingModule } from './app-routing.module';
 import { PhotosComponent } from './photos/photos.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { PhotosComponent } from './photos/photos.component';
     AnswerHighlightDirective,
     HeaderComponent,
     DecisionComponent,
-    PhotosComponent
+    PhotosComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,13 @@
+img {
+  margin-bottom: 1%;
+  width: 60%;
+  border: 10px solid pink;
+  border-radius: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
