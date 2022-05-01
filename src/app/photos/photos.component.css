@@ -1,7 +1,7 @@
 img {
   margin-bottom: 1%;
   width: 60%;
-  border: 10px solid yellowgreen;
+  border: 10px solid pink;
   border-radius: 20px;
 }
 
@@ -22,3 +22,9 @@ img {
   text-align: center;
   color: white;
 }
+
+.btn {
+  background-color: yellowgreen;
+  border-color: yellowgreen;
+}
+
