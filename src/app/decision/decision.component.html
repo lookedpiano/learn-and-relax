@@ -1,8 +1,8 @@
   <ul class="text-center list-inline py-3 span2">
     <li class="list-inline-item">
-      <a routerLink="/equation" class="btn btn-dark">Mathematics</a>
+      <a (click)="mathCompShownFun()" routerLink="{{ mathRoute }}" class="btn btn-dark">Mathematics</a>
     </li>
     <li class="list-inline-item">
-      <a routerLink="/photos" class="btn btn-dark">Cats</a>
+      <a (click)="photoCompShownFun()" routerLink="{{ photoRoute }}" class="btn btn-dark">Cats</a>
     </li>
   </ul>
